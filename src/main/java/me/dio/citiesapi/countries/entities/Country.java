@@ -1,4 +1,4 @@
-package me.dio.citiesapi.countries;
+package me.dio.citiesapi.countries.entities;
 
 import javax.persistence.Column;
 import javax.persistence.Entity;

@@ -1,7 +1,7 @@
-package me.dio.citiesapi;
+package me.dio.citiesapi.countries.resource;
 
-import me.dio.citiesapi.countries.Country;
-import me.dio.citiesapi.repository.CountryRepository;
+import me.dio.citiesapi.countries.entities.Country;
+import me.dio.citiesapi.countries.repository.CountryRepository;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.domain.Page;
 import org.springframework.data.domain.Pageable;
